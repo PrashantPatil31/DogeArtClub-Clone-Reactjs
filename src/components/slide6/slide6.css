@@ -1,0 +1,42 @@
+.slide6image {
+  background-image: url("https://dai1hr2knmld8.cloudfront.net/bg/exchange.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  /* max-width: 100%;
+      height: 100vh; */
+}
+
+.dogShortener {
+  height: 70vh;
+  position: relative;
+  left: 67%;
+  top: 30%;
+}
+
+.chatbox6 {
+  height: 310px;
+  width: 450px;
+  /* transform: translate(413%, -115%) scale(4.5) scaleX(-1); */
+  position: relative;
+  left: 3%;
+}
+
+.h6 {
+  width: 56%;
+  transform: translate(41%, -1379%);
+  color: black;
+}
+.p6 {
+  height: 15vh;
+  width: 44%;
+  transform: translate(45%, -383%);
+  color: black;
+}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:ital,wght@1,700&display=swap");
+.p6 {
+  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
